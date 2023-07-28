@@ -762,6 +762,7 @@ img {
     padding: 0;
     border-radius: 10px;
     overflow: hidden;
+    height: 251px;
     &:focus {
         outline: none;
     }
@@ -950,6 +951,9 @@ img {
     }
     #bg2 {
         height: 1800px;
+    }
+    .slick-list {
+        height: 186px;
     }
 }
 
